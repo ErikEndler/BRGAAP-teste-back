@@ -1,0 +1,789 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\dev\\BRGAAP-teste-back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B326AD3-3080-4939-9F84-AD3C6B73652A}|BRGAAP-teste-back.API\\BRGAAP-teste-back.API.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B326AD3-3080-4939-9F84-AD3C6B73652A}|BRGAAP-teste-back.API\\BRGAAP-teste-back.API.csproj|solutionrelative:brgaap-teste-back.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9335A33-ECFF-4847-BBF7-612F9C56047A}|BRGAAP-teste-back.Infra.Ioc\\BRGAAP-teste-back.Infra.Ioc.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.ioc\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9335A33-ECFF-4847-BBF7-612F9C56047A}|BRGAAP-teste-back.Infra.Ioc\\BRGAAP-teste-back.Infra.Ioc.csproj|solutionrelative:brgaap-teste-back.infra.ioc\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|f:\\dev\\brgaap-teste-back\\brgaap-back-teste.application\\services\\notafiscalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|solutionrelative:brgaap-back-teste.application\\services\\notafiscalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|f:\\dev\\brgaap-teste-back\\brgaap-back-teste.application\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|solutionrelative:brgaap-back-teste.application\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|f:\\dev\\brgaap-teste-back\\brgaap-back-teste.application\\services\\clientesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|solutionrelative:brgaap-back-teste.application\\services\\clientesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|f:\\dev\\brgaap-teste-back\\brgaap-back-teste.application\\mapping\\entitiesmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|solutionrelative:brgaap-back-teste.application\\mapping\\entitiesmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|f:\\dev\\brgaap-teste-back\\brgaap-back-teste.application\\interfaces\\inotafiscalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|solutionrelative:brgaap-back-teste.application\\interfaces\\inotafiscalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|f:\\dev\\brgaap-teste-back\\brgaap-back-teste.application\\interfaces\\ifornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|solutionrelative:brgaap-back-teste.application\\interfaces\\ifornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|f:\\dev\\brgaap-teste-back\\brgaap-back-teste.application\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|solutionrelative:brgaap-back-teste.application\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|f:\\dev\\brgaap-teste-back\\brgaap-back-teste.application\\dtos\\notafiscaldtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|solutionrelative:brgaap-back-teste.application\\dtos\\notafiscaldtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\repositories\\notafiscalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\repositories\\notafiscalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\entitiesconfiguration\\notafiscalconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\entitiesconfiguration\\notafiscalconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\entitiesconfiguration\\fornecedorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\entitiesconfiguration\\fornecedorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\entitiesconfiguration\\clienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\entitiesconfiguration\\clienteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\context\\applicantiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\context\\applicantiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|f:\\dev\\brgaap-teste-back\\brgaap-back-teste.application\\dtos\\notafiscaldtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|solutionrelative:brgaap-back-teste.application\\dtos\\notafiscaldtorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|f:\\dev\\brgaap-teste-back\\brgaap-back-teste.application\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|solutionrelative:brgaap-back-teste.application\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|f:\\dev\\brgaap-teste-back\\brgaap-back-teste.application\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EECE8BC-16DB-46D8-89F3-52E979222AF3}|BRGAAP-back-teste.Application\\BRGAAP-teste-back.Application.csproj|solutionrelative:brgaap-back-teste.application\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|solutionrelative:brgaap-teste-back.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.domain\\entities\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|solutionrelative:brgaap-teste-back.domain\\entities\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.domain\\validations\\domainexcptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|solutionrelative:brgaap-teste-back.domain\\validations\\domainexcptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|solutionrelative:brgaap-teste-back.domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.domain\\interfaces\\iunitiofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|solutionrelative:brgaap-teste-back.domain\\interfaces\\iunitiofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.domain\\interfaces\\inotafiscalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|solutionrelative:brgaap-teste-back.domain\\interfaces\\inotafiscalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.domain\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|solutionrelative:brgaap-teste-back.domain\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.domain\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|solutionrelative:brgaap-teste-back.domain\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.domain\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|solutionrelative:brgaap-teste-back.domain\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}|BRGAAP-teste-back.Domain\\BRGAAP-teste-back.Domain.csproj|solutionrelative:brgaap-teste-back.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\brgaap-teste-back.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\brgaap-teste-back.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\migrations\\20240312200626_initialmigrattion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\migrations\\20240312200626_initialmigrattion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\NotaFiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back.Domai\\Entities\\NotaFiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back.Domai\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\INotaFiscalRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back.Domai\\Interfaces\\INotaFiscalRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Controllers\\NotaFiscalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back\\Controllers\\NotaFiscalController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\Fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back.Domai\\Entities\\Fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Validations\\DomainExcptionValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back.Domai\\Validations\\DomainExcptionValidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back.Domai\\Entities\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back.Domai\\Interfaces\\IClienteRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IUnitiOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back.Domai\\Interfaces\\IUnitiOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IFornecedorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back.Domai\\Interfaces\\IFornecedorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IBaseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back.Domai\\Interfaces\\IBaseRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.API\\Program.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.API\\Program.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.API\\Program.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:56:56.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:10:40.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFornecedorService.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:17:07.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INotaFiscalService.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\INotaFiscalService.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Interfaces\\INotaFiscalService.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\INotaFiscalService.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\Interfaces\\INotaFiscalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:41:20.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntitiesMappingProfile.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Mapping\\EntitiesMappingProfile.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Mapping\\EntitiesMappingProfile.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Mapping\\EntitiesMappingProfile.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\Mapping\\EntitiesMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:59:30.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteSevice.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Services\\ClienteSevice.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Services\\ClienteSevice.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Services\\ClienteSevice.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\Services\\ClienteSevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:23:48.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FornecedorService.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Services\\FornecedorService.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Services\\FornecedorService.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Services\\FornecedorService.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\Services\\FornecedorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:09:45.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotaFiscalService.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Services\\NotaFiscalService.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Services\\NotaFiscalService.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Services\\NotaFiscalService.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\Services\\NotaFiscalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:54:20.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:28:52.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotaFiscalDTOResponse.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTOResponse.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTOResponse.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTOResponse.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTOResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:55:11.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependecyInjection.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Ioc\\DependecyInjection.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Ioc\\DependecyInjection.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Ioc\\DependecyInjection.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Ioc\\DependecyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T19:06:17.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FornecedorRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\FornecedorRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Repositories\\FornecedorRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\FornecedorRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\Repositories\\FornecedorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:51:54.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Repositories\\BaseRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:53:16.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotaFiscalConfiguration.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\NotaFiscalConfiguration.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\NotaFiscalConfiguration.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\NotaFiscalConfiguration.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\NotaFiscalConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:27:08.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FornecedorConfiguration.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\FornecedorConfiguration.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\FornecedorConfiguration.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\FornecedorConfiguration.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\FornecedorConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:25:41.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClienteConfiguration.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\ClienteConfiguration.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\ClienteConfiguration.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\ClienteConfiguration.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\ClienteConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T05:22:00.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicantionDbContext.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Context\\ApplicantionDbContext.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Context\\ApplicantionDbContext.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Context\\ApplicantionDbContext.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\Context\\ApplicantionDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:57:44.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotaFiscalRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\NotaFiscalRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Repositories\\NotaFiscalRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\NotaFiscalRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\Repositories\\NotaFiscalRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:27:00.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotaFiscalDTORequest.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTORequest.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTORequest.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTORequest.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTORequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:50:22.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FornecedorDTO.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\FornecedorDTO.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\DTOs\\FornecedorDTO.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\FornecedorDTO.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\DTOs\\FornecedorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:53:36.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\DTOs\\ClienteDTO.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\ClienteDTO.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\DTOs\\ClienteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:53:31.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotaFiscal.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\NotaFiscal.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Entities\\NotaFiscal.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\NotaFiscal.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domain\\Entities\\NotaFiscal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:49:19.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:53:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domain\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:49:46.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUnitiOfWork.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IUnitiOfWork.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Interfaces\\IUnitiOfWork.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IUnitiOfWork.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domain\\Interfaces\\IUnitiOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:51:29.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "INotaFiscalRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\INotaFiscalRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Interfaces\\INotaFiscalRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\INotaFiscalRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domain\\Interfaces\\INotaFiscalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:51:32.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IFornecedorRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Interfaces\\IFornecedorRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domain\\Interfaces\\IFornecedorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:51:15.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DomainExcptionValidation.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Validations\\DomainExcptionValidation.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Validations\\DomainExcptionValidation.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Validations\\DomainExcptionValidation.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domain\\Validations\\DomainExcptionValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:50:26.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:49:03.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domain\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:51:09.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Entities\\Fornecedor.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\Fornecedor.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domain\\Entities\\Fornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:49:11.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:48:55.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Entities\\BaseEntity.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domai\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:16:21.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "INotaFiscalRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\INotaFiscalRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Interfaces\\INotaFiscalRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\INotaFiscalRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domai\\Interfaces\\INotaFiscalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T22:35:20.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BRGAAP-teste-back.Infra.Data.csproj",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-06T19:43:24.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NotaFiscal.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\NotaFiscal.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Entities\\NotaFiscal.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\NotaFiscal.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domai\\Entities\\NotaFiscal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:43:20.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240312200626_InitialMigrattion.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:06:26.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NotaFiscalController.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Controllers\\NotaFiscalController.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back\\Controllers\\NotaFiscalController.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Controllers\\NotaFiscalController.cs",
+              "RelativeToolTip": "BRGAAP-teste-back\\Controllers\\NotaFiscalController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwCgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T21:50:04.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BRGAAP-teste-back\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T21:54:03.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Program.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back\\Program.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Program.cs",
+              "RelativeToolTip": "BRGAAP-teste-back\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:20:59.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Entities\\Fornecedor.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\Fornecedor.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domai\\Entities\\Fornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:42:27.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DomainExcptionValidation.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Validations\\DomainExcptionValidation.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Validations\\DomainExcptionValidation.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Validations\\DomainExcptionValidation.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domai\\Validations\\DomainExcptionValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T00:33:47.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Entities\\Cliente.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\Cliente.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domai\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T00:33:56.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domai\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:22:09.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUnitiOfWork.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IUnitiOfWork.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Interfaces\\IUnitiOfWork.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IUnitiOfWork.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domai\\Interfaces\\IUnitiOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:52:41.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IFornecedorRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Interfaces\\IFornecedorRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domai\\Interfaces\\IFornecedorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:42:52.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Domai\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T05:27:28.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\appsettings.json",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back\\appsettings.json",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\appsettings.json",
+              "RelativeToolTip": "BRGAAP-teste-back\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T19:45:52.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

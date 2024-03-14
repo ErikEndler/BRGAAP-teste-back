@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BRGAAP-teste-back.API.props" />
+</Project>

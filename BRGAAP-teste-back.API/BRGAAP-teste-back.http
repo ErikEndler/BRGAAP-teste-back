@@ -1,0 +1,6 @@
+@BRGAAP_teste_back_HostAddress = http://localhost:5050
+
+GET {{BRGAAP_teste_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

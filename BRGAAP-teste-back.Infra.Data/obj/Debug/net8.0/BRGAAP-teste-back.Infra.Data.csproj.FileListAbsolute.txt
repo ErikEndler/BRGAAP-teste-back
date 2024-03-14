@@ -1,0 +1,17 @@
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\bin\Debug\net8.0\BRGAAP-teste-back.Infra.Data.deps.json
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\bin\Debug\net8.0\BRGAAP-teste-back.Infra.Data.runtimeconfig.json
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\bin\Debug\net8.0\BRGAAP-teste-back.Infra.Data.dll
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\bin\Debug\net8.0\BRGAAP-teste-back.Infra.Data.pdb
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\bin\Debug\net8.0\BRGAAP-teste-back.Domain.dll
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\bin\Debug\net8.0\BRGAAP-teste-back.Domain.pdb
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\obj\Debug\net8.0\BRGAAP-teste-back.Infra.Data.csproj.AssemblyReference.cache
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\obj\Debug\net8.0\BRGAAP-teste-back.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\obj\Debug\net8.0\BRGAAP-teste-back.Infra.Data.AssemblyInfoInputs.cache
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\obj\Debug\net8.0\BRGAAP-teste-back.Infra.Data.AssemblyInfo.cs
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\obj\Debug\net8.0\BRGAAP-teste-back.Infra.Data.csproj.CoreCompileInputs.cache
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\obj\Debug\net8.0\BRGAAP-t.D08DDC4A.Up2Date
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\obj\Debug\net8.0\BRGAAP-teste-back.Infra.Data.dll
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\obj\Debug\net8.0\refint\BRGAAP-teste-back.Infra.Data.dll
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\obj\Debug\net8.0\BRGAAP-teste-back.Infra.Data.pdb
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\obj\Debug\net8.0\BRGAAP-teste-back.Infra.Data.genruntimeconfig.cache
+F:\dev\BRGAAP-teste-back\BRGAAP-teste-back.Infra.Data\obj\Debug\net8.0\ref\BRGAAP-teste-back.Infra.Data.dll

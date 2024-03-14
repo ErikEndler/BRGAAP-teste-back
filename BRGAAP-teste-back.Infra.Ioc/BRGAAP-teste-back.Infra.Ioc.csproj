@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>BRGAAP_teste_back.Infra.Ioc</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BRGAAP-back-teste.Application\BRGAAP-teste-back.Application.csproj" />
+    <ProjectReference Include="..\BRGAAP-teste-back.Domain\BRGAAP-teste-back.Domain.csproj" />
+    <ProjectReference Include="..\BRGAAP-teste-back.Domai\BRGAAP-teste-back.Domain.csproj" />
+    <ProjectReference Include="..\BRGAAP-teste-back.Infra.Data\BRGAAP-teste-back.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

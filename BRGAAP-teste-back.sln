@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BRGAAP-teste-back.Application", "BRGAAP-back-teste.Application\BRGAAP-teste-back.Application.csproj", "{1EECE8BC-16DB-46D8-89F3-52E979222AF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BRGAAP-teste-back.Infra.Data", "BRGAAP-teste-back.Infra.Data\BRGAAP-teste-back.Infra.Data.csproj", "{90C59016-CA19-4BEF-B6F7-611D29895A64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BRGAAP-teste-back.Infra.Ioc", "BRGAAP-teste-back.Infra.Ioc\BRGAAP-teste-back.Infra.Ioc.csproj", "{F9335A33-ECFF-4847-BBF7-612F9C56047A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BRGAAP-teste-back.Domain", "BRGAAP-teste-back.Domain\BRGAAP-teste-back.Domain.csproj", "{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BRGAAP-teste-back.API", "BRGAAP-teste-back.API\BRGAAP-teste-back.API.csproj", "{3B326AD3-3080-4939-9F84-AD3C6B73652A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EECE8BC-16DB-46D8-89F3-52E979222AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EECE8BC-16DB-46D8-89F3-52E979222AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EECE8BC-16DB-46D8-89F3-52E979222AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EECE8BC-16DB-46D8-89F3-52E979222AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C59016-CA19-4BEF-B6F7-611D29895A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C59016-CA19-4BEF-B6F7-611D29895A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C59016-CA19-4BEF-B6F7-611D29895A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C59016-CA19-4BEF-B6F7-611D29895A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9335A33-ECFF-4847-BBF7-612F9C56047A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9335A33-ECFF-4847-BBF7-612F9C56047A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9335A33-ECFF-4847-BBF7-612F9C56047A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9335A33-ECFF-4847-BBF7-612F9C56047A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A20210C-40C7-4774-A3FC-30A0B5D4A42E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B326AD3-3080-4939-9F84-AD3C6B73652A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B326AD3-3080-4939-9F84-AD3C6B73652A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B326AD3-3080-4939-9F84-AD3C6B73652A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B326AD3-3080-4939-9F84-AD3C6B73652A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0AF4B66-F68A-4A1D-A487-2B556D4663BA}
+	EndGlobalSection
+EndGlobal
