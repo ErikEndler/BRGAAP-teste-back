@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "F:\\dev\\BRGAAP-teste-back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\migrations\\applicantiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\migrations\\applicantiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\migrations\\20240312200626_initialmigrattion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\migrations\\20240312200626_initialmigrattion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -135,10 +143,6 @@
       "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\brgaap-teste-back.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|f:\\dev\\brgaap-teste-back\\brgaap-teste-back.infra.data\\migrations\\20240312200626_initialmigrattion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90C59016-CA19-4BEF-B6F7-611D29895A64}|BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj|solutionrelative:brgaap-teste-back.infra.data\\migrations\\20240312200626_initialmigrattion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\NotaFiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BRGAAP-teste-back.Domai\\Entities\\NotaFiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -202,47 +206,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.API\\Program.cs",
-              "RelativeDocumentMoniker": "BRGAAP-teste-back.API\\Program.cs",
-              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.API\\Program.cs",
-              "RelativeToolTip": "BRGAAP-teste-back.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "DocumentIndex": 0,
+              "Title": "ApplicantionDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Migrations\\ApplicantionDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Migrations\\ApplicantionDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Migrations\\ApplicantionDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\Migrations\\ApplicantionDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T12:56:56.106Z"
+              "WhenOpened": "2024-03-14T13:23:23.964Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IClienteService.cs",
-              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
-              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
-              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
-              "RelativeToolTip": "BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T20:10:40.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IFornecedorService.cs",
-              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
-              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
-              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
-              "RelativeToolTip": "BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T01:17:07.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "INotaFiscalService.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\INotaFiscalService.cs",
               "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Interfaces\\INotaFiscalService.cs",
@@ -254,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EntitiesMappingProfile.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Mapping\\EntitiesMappingProfile.cs",
               "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Mapping\\EntitiesMappingProfile.cs",
@@ -266,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ClienteSevice.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Services\\ClienteSevice.cs",
               "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Services\\ClienteSevice.cs",
@@ -278,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FornecedorService.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Services\\FornecedorService.cs",
               "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Services\\FornecedorService.cs",
@@ -290,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "NotaFiscalService.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Services\\NotaFiscalService.cs",
               "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Services\\NotaFiscalService.cs",
@@ -302,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Repositories\\ClienteRepository.cs",
@@ -315,7 +296,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240312200626_InitialMigrattion.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:06:26.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "IFornecedorService.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\Interfaces\\IFornecedorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:17:07.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "BRGAAP-back-teste.Application\\Interfaces\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:10:40.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.API\\Program.cs",
+              "RelativeDocumentMoniker": "BRGAAP-teste-back.API\\Program.cs",
+              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.API\\Program.cs",
+              "RelativeToolTip": "BRGAAP-teste-back.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:56:56.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "NotaFiscalDTOResponse.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTOResponse.cs",
               "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTOResponse.cs",
@@ -327,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DependecyInjection.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Ioc\\DependecyInjection.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Ioc\\DependecyInjection.cs",
@@ -339,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "FornecedorRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\FornecedorRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Repositories\\FornecedorRepository.cs",
@@ -351,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Repositories\\BaseRepository.cs",
@@ -363,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "NotaFiscalConfiguration.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\NotaFiscalConfiguration.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\NotaFiscalConfiguration.cs",
@@ -375,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "FornecedorConfiguration.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\FornecedorConfiguration.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\FornecedorConfiguration.cs",
@@ -387,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ClienteConfiguration.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\ClienteConfiguration.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\EntitiesConfiguration\\ClienteConfiguration.cs",
@@ -399,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ApplicantionDbContext.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Context\\ApplicantionDbContext.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Context\\ApplicantionDbContext.cs",
@@ -411,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "NotaFiscalRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\NotaFiscalRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Repositories\\NotaFiscalRepository.cs",
@@ -423,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "NotaFiscalDTORequest.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTORequest.cs",
               "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\DTOs\\NotaFiscalDTORequest.cs",
@@ -435,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "FornecedorDTO.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\FornecedorDTO.cs",
               "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\DTOs\\FornecedorDTO.cs",
@@ -447,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ClienteDTO.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-back-teste.Application\\DTOs\\ClienteDTO.cs",
               "RelativeDocumentMoniker": "BRGAAP-back-teste.Application\\DTOs\\ClienteDTO.cs",
@@ -459,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "NotaFiscal.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\NotaFiscal.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Entities\\NotaFiscal.cs",
@@ -471,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Repositories\\UnitOfWork.cs",
@@ -483,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Interfaces\\IBaseRepository.cs",
@@ -495,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "IUnitiOfWork.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IUnitiOfWork.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Interfaces\\IUnitiOfWork.cs",
@@ -507,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "INotaFiscalRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\INotaFiscalRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Interfaces\\INotaFiscalRepository.cs",
@@ -519,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "IFornecedorRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IFornecedorRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Interfaces\\IFornecedorRepository.cs",
@@ -531,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "DomainExcptionValidation.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Validations\\DomainExcptionValidation.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Validations\\DomainExcptionValidation.cs",
@@ -543,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Cliente.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Entities\\Cliente.cs",
@@ -555,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Interfaces\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Interfaces\\IClienteRepository.cs",
@@ -567,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Fornecedor.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\Fornecedor.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Entities\\Fornecedor.cs",
@@ -579,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domain\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domain\\Entities\\BaseEntity.cs",
@@ -591,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Entities\\BaseEntity.cs",
@@ -603,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "INotaFiscalRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\INotaFiscalRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Interfaces\\INotaFiscalRepository.cs",
@@ -615,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "BRGAAP-teste-back.Infra.Data.csproj",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\BRGAAP-teste-back.Infra.Data.csproj",
@@ -627,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "NotaFiscal.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\NotaFiscal.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Entities\\NotaFiscal.cs",
@@ -639,19 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "20240312200626_InitialMigrattion.cs",
-              "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
-              "RelativeDocumentMoniker": "BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
-              "ToolTip": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
-              "RelativeToolTip": "BRGAAP-teste-back.Infra.Data\\Migrations\\20240312200626_InitialMigrattion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T20:06:26.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "NotaFiscalController.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Controllers\\NotaFiscalController.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back\\Controllers\\NotaFiscalController.cs",
@@ -663,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back\\Controllers\\WeatherForecastController.cs",
@@ -675,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\Program.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back\\Program.cs",
@@ -687,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Fornecedor.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\Fornecedor.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Entities\\Fornecedor.cs",
@@ -699,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "DomainExcptionValidation.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Validations\\DomainExcptionValidation.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Validations\\DomainExcptionValidation.cs",
@@ -711,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "Cliente.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Entities\\Cliente.cs",
@@ -723,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Interfaces\\IClienteRepository.cs",
@@ -735,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "IUnitiOfWork.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IUnitiOfWork.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Interfaces\\IUnitiOfWork.cs",
@@ -747,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "IFornecedorRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IFornecedorRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Interfaces\\IFornecedorRepository.cs",
@@ -759,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "IBaseRepository.cs",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back.Domai\\Interfaces\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "BRGAAP-teste-back.Domai\\Interfaces\\IBaseRepository.cs",
@@ -771,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\dev\\BRGAAP-teste-back\\BRGAAP-teste-back\\appsettings.json",
               "RelativeDocumentMoniker": "BRGAAP-teste-back\\appsettings.json",

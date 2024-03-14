@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BRGAAP-teste-back.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70f7631b867677a234de07249d1642e51578ef86")]
 [assembly: System.Reflection.AssemblyProductAttribute("BRGAAP-teste-back.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BRGAAP-teste-back.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
